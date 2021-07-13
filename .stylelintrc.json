@@ -1,0 +1,12 @@
+{
+	"extends": "stylelint-config-sass-guidelines",
+	"rules": {
+		"indentation": "tab",
+		"declaration-block-trailing-semicolon": "never",
+		"no-missing-end-of-source-newline": null,
+		"block-opening-brace-space-before": null,
+		"block-opening-brace-newline-after": null,
+		"block-opening-brace-newline-before": null,
+		"block-opening-brace-space-after": null
+	}
+}
